@@ -29,7 +29,7 @@ Gmail Account: For sending email notifications using Nodemailer.
 Installation
 1. Clone the repository
  ```
-git clone https://github.com/Amanusmani242/ZEOTAP_02.git
+https://github.com/maazrakkasgi/Weather-Monitoring-Dashboard-with-Email-Alerts.git
 cd ZeoWeather
  ```
 2. Install dependencies
@@ -87,8 +87,8 @@ Make sure you use an App Password for your Gmail account instead of your standar
 Contact
 If you have any questions or suggestions, feel free to reach out:
 
-Email: usmaniaman40@gmail.com.com
-GitHub: Amanusmani242
+Email: maazrakkasgi9945@gmail.com
+GitHub: maazrakkasgi
 
 
 
